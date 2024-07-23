@@ -28,4 +28,4 @@ lerna-debug.log*
 *.sw?
 
 *.tsbuildinfo
-node_modules
+#node_modules
